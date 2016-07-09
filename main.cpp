@@ -10,6 +10,6 @@ int main()
 	cin>>a;
 	cout<<sum(a)<<endl;
 
-	reutrn 0;
+        return 0;
 }
 
